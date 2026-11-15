@@ -2,689 +2,683 @@
   "rows": [
     {
       "id": "boh-w-partition",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "間牆及水泥板",
-      "area": "多區／見備註",
-      "source": "FP01 Rev.1｜p.2；S001–S008 Rev.1｜p.3–10；D001–D002 Rev.1｜p.11–12",
       "note": "按 FP01 分辨假天花高度 3000 mm、至結構底及至結構底 STC 47 的間牆類別。0018／0019 見平面編號，房名及納入範圍待確認。",
-      "parentId": "",
+      "source": "FP01 Rev.1｜p.2；S001–S008 Rev.1｜p.3–10；D001–D002 Rev.1｜p.11–12",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-builders",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "土建、反坎及水泥砂漿找坡",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜p.1；D001–D002 Rev.1｜p.11–12",
       "note": "記錄廁所、淋浴區、管井及入口的反坎、找坡、填充混凝土及門檻接口，尺寸按對應詳圖。",
-      "parentId": "",
+      "source": "LP01 Rev.1｜p.1；D001–D002 Rev.1｜p.11–12",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-waterproof",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "防水工程",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜p.1（RB-01）；D001–D002 Rev.1｜p.11–12",
       "note": "廁所防水上翻 500 mm。淋浴區防水獨立跟進；接口及收口按對應詳圖核對。",
-      "parentId": "",
+      "source": "LP01 Rev.1｜p.1（RB-01）；D001–D002 Rev.1｜p.11–12",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-shower-waterproof",
+      "area": "0013 廁所及淋浴間",
       "kind": "work",
       "name": "淋浴間防水及門口收口",
-      "area": "0013 廁所及淋浴間",
-      "source": "D001 Rev.1 詳圖 03｜p.11；D002 Rev.1 詳圖 01–02｜p.12",
       "note": "淋浴區牆面防水上翻 1800 mm，按詳圖核對地面找坡及門口收口。",
-      "parentId": "boh-w-waterproof",
+      "source": "D001 Rev.1 詳圖 03｜p.11；D002 Rev.1 詳圖 01–02｜p.12",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "boh-w-waterproof",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-finishes",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "牆磚、地磚及油漆飾面",
-      "area": "多區／見備註",
-      "source": "LP01／FP01 Rev.1｜p.1–2；D001–D002 Rev.1｜p.11–12",
       "note": "CT-01 牆磚及 HT-01 地磚厚度在圖例與詳圖有差異，規格待核對。",
-      "parentId": "",
+      "source": "LP01／FP01 Rev.1｜p.1–2；D001–D002 Rev.1｜p.11–12",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-ceiling",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "鋁假天花及天花檢修板",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜p.1（MET-03）；FP01 Rev.1｜p.2；S001–S008 Rev.1｜p.3–10",
       "note": "包括鋁天花板、金屬承托系統、收邊、礦棉墊及天花檢修板，核對屋宇裝備接口。",
-      "parentId": "",
+      "source": "LP01 Rev.1｜p.1（MET-03）；FP01 Rev.1｜p.2；S001–S008 Rev.1｜p.3–10",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-doors",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "門、門框及五金",
-      "area": "多區／見備註",
-      "source": "S001–S008 Rev.1｜p.3–10；D002 Rev.1 詳圖 03｜p.12",
       "note": "按剖面門號跟進；門五金型號及供應責任待核對門表。入口門檻見 D002。",
-      "parentId": "",
+      "source": "S001–S008 Rev.1｜p.3–10；D002 Rev.1 詳圖 03｜p.12",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-vanity",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "洗手盆枱面及承托架",
-      "area": "多區／見備註",
-      "source": "S003／S008 Rev.1｜p.5／10；D003 Rev.0｜PDF p.13",
       "note": "跟進固體聚合物枱面、擋水板、前板及鍍鋅鋼角、槽鋼支承。洗手盆本體另列材料。",
-      "parentId": "",
+      "source": "S003／S008 Rev.1｜p.5／10；D003 Rev.0｜PDF p.13",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-metal",
+      "area": "多區／見備註",
       "kind": "work",
       "name": "牆身檢修口及隱藏鋼支架",
-      "area": "多區／見備註",
-      "source": "S003–S004／S007–S008 Rev.1｜p.5–6／9–10；D004 Rev.0｜PDF p.14",
       "note": "牆身檢修口與 MET-03 天花檢修板分開。按剖面核對隱藏鋼支承的位置及用途。",
-      "parentId": "",
+      "source": "S003–S004／S007–S008 Rev.1｜p.5–6／9–10；D004 Rev.0｜PDF p.14",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-wall-access",
+      "area": "管井（廁所接口）",
       "kind": "work",
       "name": "牆身檢修口安裝",
-      "area": "管井（廁所接口）",
-      "source": "D004 Rev.0｜PDF p.14",
       "note": "核對面框及牆內構造。詳圖列 270×235、300×235、300×195 及 300×150 mm。",
-      "parentId": "boh-w-metal",
+      "source": "D004 Rev.0｜PDF p.14",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "boh-w-metal",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-grab-support",
+      "area": "0016 無障礙廁所",
       "kind": "work",
       "name": "無障礙翻摺扶手隱藏補強",
-      "area": "0016 無障礙廁所",
-      "source": "S007 Rev.1 剖面 17｜p.9；D004 Rev.0｜PDF p.14",
       "note": "暗藏 300×250×4–5 mm GMS 鋼板焊接至 I 梁及 40×80 鋼通，封板前核對。",
-      "parentId": "boh-w-metal",
+      "source": "S007 Rev.1 剖面 17｜p.9；D004 Rev.0｜PDF p.14",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "boh-w-metal",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-w-plumbing",
-      "kind": "work",
-      "name": "給排水、潔具及淋浴裝置安裝",
       "area": "多區／見備註",
-      "source": "LP01 Rev.1 潔具圖例｜p.1；S001–S008 Rev.1｜p.3–10",
+      "kind": "work",
+      "name": "有水潔具安裝",
       "note": "包括坐廁、洗手盆、清潔盆、水龍頭及淋浴配件的安裝位置；給排水詳細走線及分界待核對。",
-      "parentId": "",
+      "source": "LP01 Rev.1 潔具圖例｜p.1；S001–S008 Rev.1｜p.3–10",
       "status": "待確認",
-      "contractor": "",
+      "includes": "坐廁、洗手盆、清潔盆、感應龍頭、附喉接頭龍頭、淋浴混水掣、花灑頭及相關接駁。",
+      "parentId": "",
       "progress": "待確認",
-      "version": 0,
-      "updatedAt": null
+      "contractor": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-w-accessories",
-      "kind": "work",
-      "name": "廁所配件及無障礙扶手安裝",
       "area": "多區／見備註",
-      "source": "LP01 Rev.1 潔具圖例｜p.1；S007 Rev.1｜p.9",
+      "kind": "work",
+      "name": "冇水潔具安裝",
       "note": "跟進直扶手、翻摺扶手、傾斜鏡、乾手機、紙架及其他配件。乾手機電源接口待核對。",
-      "parentId": "",
+      "source": "LP01 Rev.1 潔具圖例｜p.1；S007 Rev.1｜p.9",
       "status": "待確認",
-      "contractor": "",
+      "includes": "乾手機、斜鏡、皂液器、紙架、抹手紙機、棄置盒、垃圾箱、置物架、直扶手、翻摺扶手、掛衣鈎及坐廁墊紙盒。",
+      "parentId": "",
       "progress": "待確認",
-      "version": 0,
-      "updatedAt": null
+      "contractor": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-w-interfaces",
+      "area": "0015 Lobby（廁所接口）",
       "kind": "work",
       "name": "廁所入口及管井接口協調",
-      "area": "0015 Lobby（廁所接口）",
-      "source": "FP01 Rev.1｜p.2；D002 Rev.1 詳圖 03｜p.12；D004 Rev.0｜PDF p.14",
       "note": "0015 Lobby 及管井只記錄與廁所相接的門檻、間牆及檢修接口。",
-      "parentId": "",
+      "source": "FP01 Rev.1｜p.2；D002 Rev.1 詳圖 03｜p.12；D004 Rev.0｜PDF p.14",
       "status": "待確認",
-      "contractor": "",
+      "parentId": "",
       "progress": "待確認",
+      "contractor": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-m-drywall",
-      "kind": "material",
-      "name": "ABA 間牆系統",
-      "area": "多區／見備註",
-      "source": "D001 Rev.1｜PDF p.11；D004 Rev.0｜PDF p.14",
-      "note": "",
-      "workId": "boh-w-partition",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "ABA 間牆系統",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "濕區間牆",
-            "spec": "140 mm ABA drywall，D001–D002。"
+            "spec": "140 mm ABA drywall，D001–D002。",
+            "label": "濕區間牆"
           },
           {
-            "label": "檢修板詳圖牆身",
-            "spec": "64 mm ABA drywall，D004。"
+            "spec": "64 mm ABA drywall，D004。",
+            "label": "檢修板詳圖牆身"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "D001 Rev.1｜PDF p.11；D004 Rev.0｜PDF p.14",
+      "status": "待確認",
+      "workId": "boh-w-partition",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-cement-board",
-      "kind": "material",
-      "name": "水泥板",
-      "area": "多區／見備註",
-      "source": "D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12；D004 Rev.0｜PDF p.14",
-      "note": "按每幅間牆所對應的詳圖及牆面核對。",
-      "workId": "boh-w-partition",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "水泥板",
+      "note": "按每幅間牆所對應的詳圖及牆面核對。",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "9 mm 水泥板",
-            "spec": "見 D001、D002 及 D004 對應牆面。"
+            "spec": "見 D001、D002 及 D004 對應牆面。",
+            "label": "9 mm 水泥板"
           },
           {
-            "label": "12 mm 水泥板",
-            "spec": "見 D002 詳圖 02 淋浴側。"
+            "spec": "見 D002 詳圖 02 淋浴側。",
+            "label": "12 mm 水泥板"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12；D004 Rev.0｜PDF p.14",
+      "status": "待確認",
+      "workId": "boh-w-partition",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-concrete-kerb",
-      "kind": "material",
-      "name": "混凝土反坎及填充料",
-      "area": "多區／見備註",
-      "source": "D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
-      "note": "圖示多種反坎尺寸及填充混凝土，按位置核對。",
-      "workId": "boh-w-builders",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "混凝土反坎及填充料",
+      "note": "圖示多種反坎尺寸及填充混凝土，按位置核對。",
+      "buyer": "待確認",
+      "source": "D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
+      "status": "待確認",
+      "workId": "boh-w-builders",
       "delivery": "待確認",
+      "supplier": "",
       "deliveredOn": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-m-screed",
-      "kind": "material",
-      "name": "水泥砂漿底層及找坡料",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
-      "note": "",
-      "workId": "boh-w-builders",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "水泥砂漿底層及找坡料",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "防水底層",
-            "spec": "RB-01 圖例列防水水泥砂漿層最少 25 mm。"
+            "spec": "RB-01 圖例列防水水泥砂漿層最少 25 mm。",
+            "label": "防水底層"
           },
           {
-            "label": "地磚底層及靠牆收口",
-            "spec": "按 HT-01 及 D001–D002 核對找坡、底層厚度及 25×25 收口。"
+            "spec": "按 HT-01 及 D001–D002 核對找坡、底層厚度及 25×25 收口。",
+            "label": "地磚底層及靠牆收口"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
+      "status": "待確認",
+      "workId": "boh-w-builders",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-waterproofing",
-      "kind": "material",
-      "name": "柔性水泥基防水膜",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
-      "note": "",
-      "workId": "boh-w-waterproof",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "柔性水泥基防水膜",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "RB-01",
+            "spec": "最少 1 mm。廁所及淋浴區的上翻高度分別見 500 mm、1800 mm 詳圖。",
             "brand": "Fosroc",
-            "model": "Brushbond FLXIII（圖例參考或同等）",
-            "spec": "最少 1 mm。廁所及淋浴區的上翻高度分別見 500 mm、1800 mm 詳圖。"
+            "label": "RB-01",
+            "model": "Brushbond FLXIII（圖例參考或同等）"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
+      "status": "待確認",
+      "workId": "boh-w-waterproof",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-wall-tile",
-      "kind": "material",
-      "name": "CT-01 牆磚",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
-      "note": "牆磚厚度待核對，確認後再訂料。",
-      "workId": "boh-w-finishes",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "CT-01 牆磚",
+      "note": "牆磚厚度待核對，確認後再訂料。",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "LP01 圖例",
-            "spec": "300×300×8 mm 無釉陶瓷牆磚。"
+            "spec": "300×300×8 mm 無釉陶瓷牆磚。",
+            "label": "LP01 圖例"
           },
           {
-            "label": "D001／D002 防水詳圖",
-            "spec": "300×300×10 mm 牆磚。"
+            "spec": "300×300×10 mm 牆磚。",
+            "label": "D001／D002 防水詳圖"
           }
         ],
         "needsCheck": true
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
+      "status": "待確認",
+      "workId": "boh-w-finishes",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-floor-tile",
-      "kind": "material",
-      "name": "HT-01 防滑地磚",
-      "area": "多區／見備註",
-      "source": "FP01 Rev.1｜PDF p.2；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
-      "note": "地磚厚度待核對，確認後再訂料。",
-      "workId": "boh-w-finishes",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "HT-01 防滑地磚",
+      "note": "地磚厚度待核對，確認後再訂料。",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "FP01 圖例",
-            "spec": "600×600×9.5 mm，同質地磚，R11。"
+            "spec": "600×600×9.5 mm，同質地磚，R11。",
+            "label": "FP01 圖例"
           },
           {
-            "label": "D001／D002 防水詳圖",
-            "spec": "600×600×10 mm 地磚。"
+            "spec": "600×600×10 mm 地磚。",
+            "label": "D001／D002 防水詳圖"
           }
         ],
         "needsCheck": true
-      }
+      },
+      "source": "FP01 Rev.1｜PDF p.2；D001 Rev.1｜PDF p.11；D002 Rev.1｜PDF p.12",
+      "status": "待確認",
+      "workId": "boh-w-finishes",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-skirting",
-      "kind": "material",
-      "name": "HT-02 腳線磚",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11",
-      "note": "",
-      "workId": "boh-w-finishes",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "HT-02 腳線磚",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "HT-02",
-            "spec": "圖例列 600×100×10 mm 同質腳線磚（R10）；D001 標示弧形腳線磚。"
+            "spec": "圖例列 600×100×10 mm 同質腳線磚（R10）；D001 標示弧形腳線磚。",
+            "label": "HT-02"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1；D001 Rev.1｜PDF p.11",
+      "status": "待確認",
+      "workId": "boh-w-finishes",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-grout",
-      "kind": "material",
-      "name": "瓷磚黏結及防水填縫料",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-finishes",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "瓷磚黏結及防水填縫料",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "CT-01 鋪貼系統",
-            "spec": "圖例指定瓷磚黏結料及防水填縫；接縫最大 5 mm。"
+            "spec": "圖例指定瓷磚黏結料及防水填縫；接縫最大 5 mm。",
+            "label": "CT-01 鋪貼系統"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-finishes",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-paint",
-      "kind": "material",
-      "name": "PNT-01A 防霉油漆",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-finishes",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "PNT-01A 防霉油漆",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "PNT-01A",
-            "spec": "一層水性底漆，兩層無 VOC 防霉啞面丙烯酸乳膠漆。RAL 顏色待確認。"
+            "spec": "一層水性底漆，兩層無 VOC 防霉啞面丙烯酸乳膠漆。RAL 顏色待確認。",
+            "label": "PNT-01A"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-finishes",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-ceiling-panel",
-      "kind": "material",
-      "name": "MET-03 鋁天花板",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-ceiling",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "MET-03 鋁天花板",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "MET-03",
-            "spec": "圖例列最少 600×600×1.5 mm，三層 PVDF。"
+            "spec": "圖例列最少 600×600×1.5 mm，三層 PVDF。",
+            "label": "MET-03"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-ceiling",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-ceiling-support",
-      "kind": "material",
-      "name": "天花承托及鋁收邊",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-ceiling",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "天花承托及鋁收邊",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "MET-03 配套",
-            "spec": "隱藏式扣夾格架、專用金屬承托系統及擠壓鋁收邊。"
+            "spec": "隱藏式扣夾格架、專用金屬承托系統及擠壓鋁收邊。",
+            "label": "MET-03 配套"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-ceiling",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-mineral-wool",
-      "kind": "material",
-      "name": "天花礦棉墊",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-ceiling",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "天花礦棉墊",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "MET-03 配套",
-            "spec": "天花板上加 25 mm 厚礦棉墊。"
+            "spec": "天花板上加 25 mm 厚礦棉墊。",
+            "label": "MET-03 配套"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-ceiling",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-ceiling-access",
-      "kind": "material",
-      "name": "天花檢修板",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "按 MET-03 系統及屋宇裝備檢修位置核對。",
-      "workId": "boh-w-ceiling",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "天花檢修板",
+      "note": "按 MET-03 系統及屋宇裝備檢修位置核對。",
+      "buyer": "待確認",
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-ceiling",
       "delivery": "待確認",
+      "supplier": "",
       "deliveredOn": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-m-doors",
-      "kind": "material",
-      "name": "門扇及門框",
-      "area": "多區／見備註",
-      "source": "S001–S008 Rev.1｜p.3–10",
-      "note": "按剖面所示 013A、013B、016A、017A 等門號與門表逐一核對。",
-      "workId": "boh-w-doors",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "門扇及門框",
+      "note": "按剖面所示 013A、013B、016A、017A 等門號與門表逐一核對。",
+      "buyer": "待確認",
+      "source": "S001–S008 Rev.1｜p.3–10",
+      "status": "待確認",
+      "workId": "boh-w-doors",
       "delivery": "待確認",
+      "supplier": "",
       "deliveredOn": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-m-ironmongery",
-      "kind": "material",
-      "name": "門用五金",
-      "area": "多區／見備註",
-      "source": "S001–S008 Rev.1｜p.3–10",
-      "note": "實際五金規格及數量待核對門表。",
-      "workId": "boh-w-doors",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "門用五金",
+      "note": "實際五金規格及數量待核對門表。",
+      "buyer": "待確認",
+      "source": "S001–S008 Rev.1｜p.3–10",
+      "status": "待確認",
+      "workId": "boh-w-doors",
       "delivery": "待確認",
+      "supplier": "",
       "deliveredOn": "",
       "version": 0,
       "updatedAt": null
     },
     {
       "id": "boh-m-countertop",
-      "kind": "material",
-      "name": "固體聚合物枱面、擋水板及前板",
-      "area": "多區／見備註",
-      "source": "D003 Rev.0｜PDF p.13",
-      "note": "",
-      "workId": "boh-w-vanity",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "固體聚合物枱面、擋水板及前板",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "洗手盆枱面組件",
-            "spec": "Solid polymer 枱面、擋水板及 apron。"
+            "spec": "Solid polymer 枱面、擋水板及 apron。",
+            "label": "洗手盆枱面組件"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "D003 Rev.0｜PDF p.13",
+      "status": "待確認",
+      "workId": "boh-w-vanity",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-vanity-support",
-      "kind": "material",
-      "name": "洗手盆枱面支架",
-      "area": "多區／見備註",
-      "source": "S003／S008 Rev.1｜p.5／10；D003 Rev.0｜PDF p.13",
-      "note": "",
-      "workId": "boh-w-vanity",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "洗手盆枱面支架",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "枱面支承",
-            "spec": "前後鍍鋅鋼角焊至槽鋼支承；隱藏鋼板及鋼通按相關剖面。"
+            "spec": "前後鍍鋅鋼角焊至槽鋼支承；隱藏鋼板及鋼通按相關剖面。",
+            "label": "枱面支承"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "S003／S008 Rev.1｜p.5／10；D003 Rev.0｜PDF p.13",
+      "status": "待確認",
+      "workId": "boh-w-vanity",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-wall-access",
-      "kind": "material",
-      "name": "牆身檢修板",
-      "area": "管井（廁所接口）",
-      "source": "D004 Rev.0｜PDF p.14",
-      "note": "按詳圖核對各尺寸的實際位置及數量。",
-      "workId": "boh-w-wall-access",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "管井（廁所接口）",
+      "kind": "material",
+      "name": "牆身檢修板",
+      "note": "按詳圖核對各尺寸的實際位置及數量。",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
@@ -701,611 +695,772 @@
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "D004 Rev.0｜PDF p.14",
+      "status": "待確認",
+      "workId": "boh-w-wall-access",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-access-frame",
-      "kind": "material",
-      "name": "檢修口鋼框及角鐵",
-      "area": "管井（廁所接口）",
-      "source": "D004 Rev.0｜PDF p.14",
-      "note": "",
-      "workId": "boh-w-wall-access",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "管井（廁所接口）",
+      "kind": "material",
+      "name": "檢修口鋼框及角鐵",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "D004 牆身構造",
-            "spec": "40×80 mm GMS 鋼通及圖示 25×25×3、45×90×3 mm 角鐵。"
+            "spec": "40×80 mm GMS 鋼通及圖示 25×25×3、45×90×3 mm 角鐵。",
+            "label": "D004 牆身構造"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "D004 Rev.0｜PDF p.14",
+      "status": "待確認",
+      "workId": "boh-w-wall-access",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-grab-backing",
-      "kind": "material",
-      "name": "翻摺扶手暗藏鋼板及鋼通",
-      "area": "0016 無障礙廁所",
-      "source": "S007 Rev.1 剖面 17｜p.9；D004 Rev.0｜PDF p.14",
-      "note": "",
-      "workId": "boh-w-grab-support",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "0016 無障礙廁所",
+      "kind": "material",
+      "name": "翻摺扶手暗藏鋼板及鋼通",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "扶手補強",
-            "spec": "300×250×4–5 mm GMS 鋼板焊至 I 梁及 40×80 鋼通。"
+            "spec": "300×250×4–5 mm GMS 鋼板焊至 I 梁及 40×80 鋼通。",
+            "label": "扶手補強"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "S007 Rev.1 剖面 17｜p.9；D004 Rev.0｜PDF p.14",
+      "status": "待確認",
+      "workId": "boh-w-grab-support",
+      "delivery": "待確認",
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 0,
+      "updatedAt": null
     },
     {
       "id": "boh-m-basins",
-      "kind": "material",
-      "name": "洗手盆",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1；D003 Rev.0｜PDF p.13",
-      "note": "",
-      "workId": "boh-w-plumbing",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "洗手盆",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "L1",
             "brand": "Corian",
+            "label": "L1",
             "model": "815"
           },
           {
-            "label": "L2",
             "brand": "American Standard",
+            "label": "L2",
             "model": "TF-0946"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1；D003 Rev.0｜PDF p.13",
+      "status": "待確認",
+      "workId": "boh-w-plumbing",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 7,
+        "required": 7,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 38、40",
+        "referenceNote": "Corian 815 需要 5、已訂 6；TF-0946 需要 2、已訂 1。兩款要分開核對。"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-wc",
-      "kind": "material",
-      "name": "坐廁",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-plumbing",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "坐廁",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "WC1",
             "brand": "Bellini",
+            "label": "WC1",
             "model": "LX-71088SV"
           },
           {
-            "label": "WC2",
             "brand": "Bellini",
+            "label": "WC2",
             "model": "AB-4018"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-plumbing",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 7,
+        "required": 7,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 30、31",
+        "referenceNote": "PO 表 AB-4018 為 5／5，AB-LX-71088SV 為 2／2；圖紙與 PO 表使用的 WC 代號待核對。"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-cleaner-sink",
-      "kind": "material",
-      "name": "清潔盆",
-      "area": "0014 清潔房",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-plumbing",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "0014 清潔房",
+      "kind": "material",
+      "name": "清潔盆",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "1",
+            "spec": "Fire clay cleaner sink。",
             "brand": "Wells",
-            "model": "FSLS-316",
-            "spec": "Fire clay cleaner sink。"
+            "label": "1",
+            "model": "FSLS-316"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-plumbing",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 1,
+        "required": 1,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 59"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-sensor-tap",
-      "kind": "material",
-      "name": "紅外線感應龍頭",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-plumbing",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "紅外線感應龍頭",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "2",
             "brand": "Toto",
+            "label": "2",
             "model": "TLE28001H + TLE01501H"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-plumbing",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 7,
+        "required": 7,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 18"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-hose-tap",
-      "kind": "material",
-      "name": "附喉接頭水龍頭",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-plumbing",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "附喉接頭水龍頭",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "3",
+            "spec": "牆掛式，附 hose union。",
             "brand": "Kita",
-            "model": "CN-70A",
-            "spec": "牆掛式，附 hose union。"
+            "label": "3",
+            "model": "CN-70A"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-plumbing",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 1,
+        "required": 1,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 15"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-shower-mixer",
-      "kind": "material",
-      "name": "暗藏淋浴混水掣",
-      "area": "0013 廁所及淋浴間",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-plumbing",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "0013 廁所及淋浴間",
+      "kind": "material",
+      "name": "暗藏淋浴混水掣",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "4",
+            "spec": "單手柄。",
             "brand": "Grohe",
-            "model": "26689XX1",
-            "spec": "單手柄。"
+            "label": "4",
+            "model": "26689XX1"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-plumbing",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 4,
+        "required": 4,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 47"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-shower-head",
-      "kind": "material",
-      "name": "花灑頭及牆掛臂",
-      "area": "0013 廁所及淋浴間",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-plumbing",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "0013 廁所及淋浴間",
+      "kind": "material",
+      "name": "花灑頭及牆掛臂",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "5",
             "brand": "Grohe",
+            "label": "5",
             "model": "26689001"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-plumbing",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 4,
+        "required": 4,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 46"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-toilet-roll",
-      "kind": "material",
-      "name": "大卷廁紙架",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "大卷廁紙架",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "6",
             "brand": "Bobrick",
+            "label": "6",
             "model": "B2890"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 7,
+        "required": 7,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 27"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-paper-towel",
-      "kind": "material",
-      "name": "不鏽鋼抹手紙機",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "不鏽鋼抹手紙機",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "7",
             "brand": "Bobrick",
+            "label": "7",
             "model": "B-262"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 2,
+        "required": 6,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 21",
+        "referenceNote": "PO 表列 2，另外 4 件在 BoH 明細未列 PO 數量。"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-soap",
-      "kind": "material",
-      "name": "鏡後感應皂液器",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "鏡後感應皂液器",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "9",
             "brand": "Bobrick",
+            "label": "9",
             "model": "B-2111"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 7,
+        "required": 7,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 43"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-sanitary-bin",
-      "kind": "material",
-      "name": "衞生巾棄置盒",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "衞生巾棄置盒",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "12",
             "brand": "Chiu Cheung",
+            "label": "12",
             "model": "訂造"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 7,
+        "required": 7,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 12"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-dryer",
-      "kind": "material",
-      "name": "高速乾手機",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "圖例列 13A、13B，按位置核對用款。",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "高速乾手機",
+      "note": "圖例列 13A、13B，按位置核對用款。",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "13A",
             "brand": "KDK",
+            "label": "13A",
             "model": "T09AC"
           },
           {
-            "label": "13B",
             "brand": "Bellini",
+            "label": "13B",
             "model": "T09AC"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 2,
+        "required": 2,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 9",
+        "referenceNote": "BoH 明細列 Bellini T09AC 共 2 部。圖例列 Bellini 及 KDK 款。"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-waste-bin",
-      "kind": "material",
-      "name": "掛牆垃圾箱",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "掛牆垃圾箱",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "14",
             "brand": "Bobrick",
+            "label": "14",
             "model": "HSD-A1688"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 2,
+        "required": 2,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 53",
+        "referenceNote": "圖紙圖例列 HSD-A1688，PO 表列 Bobrick B-3644。型號待核對。"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-sundries-shelf",
-      "kind": "material",
-      "name": "掛牆置物架",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "掛牆置物架",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "15",
             "brand": "ASI",
+            "label": "15",
             "model": "7381"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 4,
+        "required": 4,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 48"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-angled-mirror",
-      "kind": "material",
-      "name": "無障礙廁所斜鏡",
-      "area": "0016 無障礙廁所",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "0016 無障礙廁所",
+      "kind": "material",
+      "name": "無障礙廁所斜鏡",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "16",
             "brand": "ASI",
+            "label": "16",
             "model": "0600-2442"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 1,
+        "required": 1,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 6"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-straight-grab",
-      "kind": "material",
-      "name": "600 mm 直扶手",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "600 mm 直扶手",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "17",
             "brand": "KnCosa",
+            "label": "17",
             "model": "GB101-60"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 2,
+        "required": 2,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 50"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-folding-grab",
-      "kind": "material",
-      "name": "翻摺扶手",
-      "area": "0016 無障礙廁所",
-      "source": "LP01 Rev.1｜PDF p.1；S007 Rev.1｜p.9",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "0016 無障礙廁所",
+      "kind": "material",
+      "name": "翻摺扶手",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "18",
             "brand": "KnCosa",
+            "label": "18",
             "model": "SB101-75"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1；S007 Rev.1｜p.9",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 1,
+        "required": 1,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 56"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-robe-hook",
-      "kind": "material",
-      "name": "掛衣鈎",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "掛衣鈎",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "21",
             "brand": "Jacknob",
+            "label": "21",
             "model": "4003"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 11,
+        "required": 11,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 24"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     },
     {
       "id": "boh-m-seat-cover",
-      "kind": "material",
-      "name": "嵌入式坐廁墊紙盒",
-      "area": "多區／見備註",
-      "source": "LP01 Rev.1｜PDF p.1",
-      "note": "",
-      "workId": "boh-w-accessories",
-      "buyer": "待確認",
-      "supplier": "",
-      "status": "待確認",
       "po": "",
       "eta": "",
-      "delivery": "待確認",
-      "deliveredOn": "",
-      "version": 0,
-      "updatedAt": null,
+      "area": "多區／見備註",
+      "kind": "material",
+      "name": "嵌入式坐廁墊紙盒",
+      "note": "",
+      "buyer": "待確認",
       "design": {
         "lines": [
           {
-            "label": "26",
             "brand": "Bobrick",
+            "label": "26",
             "model": "B-301"
           }
         ],
         "needsCheck": false
-      }
+      },
+      "source": "LP01 Rev.1｜PDF p.1",
+      "status": "待確認",
+      "workId": "boh-w-accessories",
+      "category": "潔具",
+      "delivery": "待確認",
+      "sanitary": {
+        "stage": "已訂",
+        "ordered": 7,
+        "required": 7,
+        "reference": "DIS 12_Toilet SF list summary｜Summary 35"
+      },
+      "supplier": "",
+      "deliveredOn": "",
+      "version": 1,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
+    },
+    {
+      "id": "boh-w-cubicles",
+      "area": "0013 廁所及淋浴間",
+      "kind": "work",
+      "name": "Toilet Cubicle 廁格",
+      "note": "獨立跟進廁格。廁格系統規格、門及間牆分判分界待核對。",
+      "source": "FP01 Rev.1｜p.2；S002–S005 Rev.1｜p.4–7",
+      "status": "待確認",
+      "includes": "廁格間隔及廁格門。",
+      "parentId": "",
+      "progress": "待確認",
+      "contractor": "",
+      "version": 0,
+      "updatedAt": "2026-11-15T07:23:57.507566+00:00"
     }
   ]
 }

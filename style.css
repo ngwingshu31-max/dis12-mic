@@ -54,7 +54,12 @@ h1 { font-size: clamp(1.85rem, 4vw, 2.8rem); line-height: 1.25; letter-spacing: 
 .register-head > div { display: flex; flex-wrap: wrap; gap: 8px 13px; align-items: baseline; }
 .register h2 { font-size: 1.17rem; }
 .record-count { font-size: .79rem; color: var(--quiet); }
+.sanitary-register { margin-top: 20px; }
+.material-views { display: flex; gap: 6px; padding: 0 21px 12px; }
+.material-views button { min-height: 36px; padding: 5px 12px; border: 1px solid var(--edge); border-radius: 6px; background: var(--paper); font-size: .86rem; }
+.material-views button[aria-pressed="true"] { background: #e7f3eb; border-color: #98b9aa; color: var(--accent); font-weight: 650; }
 .filters { display: grid; grid-template-columns: minmax(160px, 1fr) minmax(145px, 180px) minmax(145px, 180px); gap: 10px; padding: 0 21px 16px; }
+.sanitary-filters { grid-template-columns: minmax(160px, 1fr) minmax(145px, 180px); }
 .filters select, .search, .field input, .field textarea, .field select {
   border: 1px solid #ccd9d1; border-radius: 6px; min-width: 0; background: #fff; min-height: 41px;
 }
@@ -79,6 +84,8 @@ tbody tr:hover { background: #fafbf5; }
 .item > span { display: block; margin-top: 3px; color: var(--quiet); font-size: .76rem; }
 .item > .fitment-summary { color: #475e54; }
 .item > .fitment-check { color: #77500a; }
+.item > .work-includes { line-height: 1.45; max-width: 42ch; }
+.quantity { font-weight: 650; font-variant-numeric: tabular-nums; }
 .item.child { padding-left: 41px; }
 .item.child .record-button::before { content: "↳ "; color: var(--accent); }
 .record-button { border: 0; padding: 0; background: transparent; text-align: left; font-weight: 700; line-height: 1.45; }
@@ -151,7 +158,9 @@ dialog::backdrop { background: #19362f7a; }
   .metric:nth-child(3) { border-left: 0; }
   .metric:nth-child(n + 3) { border-top: 1px solid var(--edge); }
   .register-head { padding: 12px; }
+  .material-views { padding-inline: 12px; }
   .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); padding: 0 12px 12px; }
+  .sanitary-filters > select { grid-column: 1 / -1; }
   .search { grid-column: 1 / -1; }
   .table-wrap { overflow: visible; }
   table { display: block; min-width: 0; }
