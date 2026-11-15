@@ -42,6 +42,18 @@ h1 { font-size: clamp(1.85rem, 4vw, 2.8rem); line-height: 1.25; letter-spacing: 
 .updated { font-size: .8rem; padding-bottom: 4px; }
 .intro-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 14px; }
 .intro-actions .updated { padding-bottom: 0; }
+.excel-import { width: min(700px, calc(100dvw - 28px)); }
+.excel-help { color: var(--quiet); font-size: .88rem; line-height: 1.55; }
+.excel-file-row { display: flex; align-items: end; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.excel-file-row input { max-width: 100%; }
+.excel-preview { margin-top: 18px; }
+.excel-preview h3, .excel-preview h4 { margin: 0 0 6px; }
+.excel-diff { border-block-start: 1px solid var(--edge); padding: 12px 0; margin-top: 10px; }
+.excel-diff-cell { display: grid; gap: 6px; font-size: .88rem; padding-block: 6px; }
+.excel-comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.excel-comparison div { min-width: 0; padding: 6px 8px; background: var(--surface); border-radius: 4px; }
+.excel-comparison span { color: var(--quiet); font-size: .76rem; }
+.excel-comparison p { white-space: pre-wrap; overflow-wrap: anywhere; }
 .tabs { display: flex; border-bottom: 1px solid #bdcfc4; gap: 23px; }
 .tab { display: inline-flex; align-items: center; gap: 8px; background: none; border: 0; border-bottom: 3px solid transparent; padding: 10px 9px 12px; color: #516961; font-size: .95rem; font-weight: 700; }
 .tab span { font-size: .76rem; font-weight: 500; }
