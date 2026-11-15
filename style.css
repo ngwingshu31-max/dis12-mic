@@ -30,9 +30,15 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .intro { display: flex; align-items: end; justify-content: space-between; flex-wrap: wrap; gap: 12px 24px; padding: 40px 0 27px; }
 h1, h2, p { margin: 0; }
 h1 { font-size: clamp(1.85rem, 4vw, 2.8rem); line-height: 1.25; letter-spacing: -.045em; }
+.checklist-switch { position: relative; display: inline-flex; gap: .18em; align-items: center; color: var(--accent); white-space: nowrap; margin-right: .12em; border-radius: 4px; }
+.checklist-switch svg { width: .54em; height: .54em; flex-shrink: 0; }
+.checklist-switch select { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; }
+.checklist-switch:focus-within { outline: 2px solid var(--accent); outline-offset: 3px; }
+.checklist-switch:hover > span { text-decoration: underline; text-underline-offset: .16em; text-decoration-thickness: 1px; }
 .intro p, .updated { color: var(--quiet); }
 .intro p { margin-top: 10px; font-size: .94rem; }
-.intro p span { color: #7c9288; margin-inline: 5px; }
+.summary-area { display: inline-block; }
+.summary-area > span { color: #7c9288; margin-inline: 5px; }
 .updated { font-size: .8rem; padding-bottom: 4px; }
 .tabs { display: flex; border-bottom: 1px solid #bdcfc4; gap: 23px; }
 .tab { display: inline-flex; align-items: center; gap: 8px; background: none; border: 0; border-bottom: 3px solid transparent; padding: 10px 9px 12px; color: #516961; font-size: .95rem; font-weight: 700; }
@@ -72,6 +78,7 @@ tbody tr:hover { background: #fafbf5; }
 .item { min-width: 170px; font-weight: 400; }
 .item > span { display: block; margin-top: 3px; color: var(--quiet); font-size: .76rem; }
 .item > .fitment-summary { color: #475e54; }
+.item > .fitment-check { color: #77500a; }
 .item.child { padding-left: 41px; }
 .item.child .record-button::before { content: "↳ "; color: var(--accent); }
 .record-button { border: 0; padding: 0; background: transparent; text-align: left; font-weight: 700; line-height: 1.45; }
